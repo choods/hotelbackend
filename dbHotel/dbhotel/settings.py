@@ -5,7 +5,7 @@ from datetime import timedelta
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = 'your_secret_key'
+SECRET_KEY = '==_u2gto*^$8tavcq88-19vhyl++i6$1k!@7q&uaqf2-^kr9xt'
 
 DEBUG = True
 
